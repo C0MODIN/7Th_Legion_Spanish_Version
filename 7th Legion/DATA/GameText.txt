@@ -1,0 +1,434 @@
+Credito Asignado: %dcr Muertes:%d
+%s %s es golpeado
+%s %s sufre fuertes perdidas
+%s %s se lleva una paliza
+%s %s es pulverizado
+Llegaron los refuerzos...
+velocidad del juego
+bloquear
+R:%d
+.Opciones.
+ Continuar
+ Rendirse
+Salir Juego
+T:%d
+Mision fallida
+Mision Completada
+alto el fuego
+color
+el vencedor
+(Mision Recompensa Cambiado...)
+(Orden Especial...)
+Destruir (%s) del equipo %ss.
+Destruir (%d) unidades %ss.
+Planta una bomba en (%ss) base.
+para una nueva base.
+premio (%d) cred.
+%s es %s.
+Tpo. restante. %d.%02d
+Tpo. restante. (%d.%02d)
+(Orden Especial Completada...)
+%s es ascendido a (%s).
+(promotion to %s...)
+Salvar Partida Rapido
+%s le quedan 7 minutos...
+Estas siendo atacado.
+%s %s ataca la base %ss.
+Fuerzas Enemigas Atacando.
+Unidad Destruida.
+(%s%s planta una bomba...)
+Poder Insuficiente.
+Credito Insuficiente.
+Construccion Completa
+Construccion Planta Energia Completada
+Construccion Base Completa
+%s Construccion Completa
+Credito Insuficiente
+Potencia Mejorada...
+Laseres Mejorados...
+Armaduras Mejoradas...
+Fusiles Mejorados...
+Armadura Corporal Mejorada...
+Blindaje Mejorado...
+Misiles Listos
+%s Lista
+unidad lista
+Imposible producir unidad...
+Construccion completa
+Ubicacion Armas  Construccion completa
+Escudo Construccion completa
+(Conseguido:) Tarjeta Extra
+(Conseguido:) Rapido Y Barato
+(Conseguido:) Promotion
+(Conseguido:) Mega Promotion
+(Conseguido:) Feliz Navidad
+(Conseguido:) 20000 CRED.
+(Conseguido:) 10000 CRED.
+(Conseguido:) 15000 CRED.
+(Conseguido:) 5000 CRED.
+(Conseguido:) Sigilo
+(Conseguido:) Revelar Mapa
+(Conseguido:) Doble Tiempo
+(Conseguido:) Fuego rapido
+(Conseguido:) Mega Salud
+(Conseguido:) Doble Daño
+(Conseguido:) Armadura Sombra
+(Conseguido:) Reparaciones Maximas
+(Conseguido:) Rango Extendido
+(Conseguido:) Abraza un Arbol
+(Conseguido:) Gran Bomba Mala
+(Dispositivo explosivo detectado.)
+(Conseguido:) Vision-verdadera
+(Conseguido:) Arma Mejorada
+(Conseguido:) Armadura Mejorada
+Base
+Fundacion
+Planta Energia
+Mina
+Refineria
+Cuartel
+Pared
+Estacion Radar
+Hospital
+Fabrica De Vehiculos
+Base Armas
+Lab. Alta Tecnologia
+Bahia Reparaciones
+Hangar Robots
+Mina
+Reactor
+Silo Misiles
+Generador Blindaje.
+Astillero Naval
+Hangar Aereo
+Plataforma Aterrizaje
+Planta Quimica
+Super Base Armas
+Portador De Mineral
+Camion De Minerales
+Merodeador
+Opresor
+Crucificador
+APC
+Tormentor
+Vengador
+Martillo De Fe
+Aniquilador
+Purificador
+Mina Terrestre
+Misil
+infanteria
+Artillero
+Artillero
+Unidad Mortero
+Sacerdote
+Medico
+Jinete
+Marino
+Comandante
+Transporte Aereo
+Gorrion
+Aguila
+Aerodeslizador
+Satelite Espia
+Energia Mejorada
+Laser Mejorado
+Misil Mejorado
+Fusil Mejorado
+Armadura Corporal Mejorada
+Blindaje Mejorado
+Dominador
+Obliterator
+Mecanismo Liviano
+Nova
+Tifon Venenoso
+Redentor
+Bomba
+Sigilo
+Vision verdadera
+Base Movil
+Piroclasto
+Fusil De plasma
+RPG
+Disparo Sniper
+Construyendo
+Seleccionando
+Recuperar Unidades Perdidas...
+Seleccionando
+Enemigo
+OK
+Destruir
+PODER
+USADO
+MINERAL
+MISILES
+ESTADO..CRITICO
+ESTADO..
+ESTADO..CRITICO
+ESTADO..DAÑO
+ESTADO..NOMINAL
+Construyendo...
+Edificando...
+Retenido
+Destacamento Almacenado...
+Destacamento Seleccionado...
+Normal    
+Defensivo
+Agresivo
+Cancelar
+Normal    
+Reagrupar
+Guardia
+Cancelar
+Seleccionar Obejtivo...
+Seleccionar Destino...
+Detener...
+MMX Deshabilitado
+MMX Habilitado
+Mensaje A Todos...
+Mensaje A %s...
+Credito Insuficiente...
+Construir
+Reparar
+MOVER
+Alto
+Ataca
+Lanzar
+Cancelar
+Sargento
+Sargento Mayor
+Teniente
+Mayor
+Coronel
+General
+Rango7
+Rango8
+Sgt.
+Sgt. May.
+Ten.
+May.
+Cor.
+Gen.
+Uno en un millon
+Psicosis de batalla
+Maldecir Maquina
+Inmolacion
+Martillo Divino
+Equilibrio
+Ira de batalla
+Caos
+Dominacion
+Transforma Desplazamiento
+Puño Destructor
+Eliminar Habilidades
+Robar Habiliades
+Transferir Daño
+Extraer Vida
+Decepcion
+Infiltrado
+Radar Mermelada
+Invocar Oscuridad
+Congelar Unidades
+Santa Bendicion
+Invocar Aparicion
+Invoca Legion Oscura
+Armagedon
+Kit Medico
+destruye
+desechos
+basuras
+remata
+invalido
+Azul
+Rojo
+Verde
+Amarillo
+Negro
+Blanco
+invalido
+OK
+Opciones....
+Nuevo juego
+Cargar partida
+Multijugador
+Opciones
+Noticias en linea
+Enciclopedia
+Salir
+MMX
+Opciones de sonido.
+44 KHz|22 KHz|11 KHz
+8 Bit Mixing|16 Bit Mixing
+Normal Quality|High Quality
+Volumen musica
+Volumen efectos
+Opciones graficas.
+Max Detalle|Med Detalle|Min Detalle
+256 Colours|Hi Colour
+Min res|Max res
+Gama
+Reiniciar
+OK
+..Vacio..
+Cargar partida...
+Cancelar
+Salvar partida...
+Mision %02d...
+Held
+Tu rango es %d of 5
+(Conseguido:)
+(%s %ss) Base destruida.
+Equipo (%s) sin edificios.
+Demasiados edificios.
+Demasiadas Unidades.
+(%s %s self destructs...)
+%s es ascendido a (%s).
+(ascenso a %s...)
+%s es ascendido a (%s).
+(ascendido a %s...)
+ascenso
+rango
+Cargado
+Enemigo %s
+Reparando
+SALVAR
+Continuar
+Opciones
+Salvar partida
+Cargar partida
+Reiniciar Mision
+Terminar partida
+Salir del juego
+Velocidad de juego
+Rapido
+Lento
+Construido
+Muertes
+Dinero
+Tiempo. %d hr. %d min. %d seg.
+Continuar
+jugador
+Crear nuevo juego o unete a uno existente.
+Crear Juego
+Unirse a Juego
+Cancelar
+Edita tu nombre...
+%ss juego
+Jugadores...
+7th|Ch
+Ningun|AI Player
+7th|Ch
+Opciones...
+Dficil|Medio|Facil
+Tiempo Dia|Tiempo Noche
+Max Tech|Med Tech|Min Tech
+15000 Cred.|30000 Cred.|50000 Cred.|75000 Cred.
+Externo Normal|Externo CTF
+Empezar
+Abandonar
+Mensajes...
+Enviar Mensaje
+Ningun|AI Player
+Seleccionar Protocolo....
+Cancelar
+Seleccionar Juego A Unirse....
+Ingrese Direccion De Anfitrión....
+Refrescar
+Conectar
+¡Sacerdote potenciado!
+%s%s juega (%s) sobre %s.
+%s%s juega (%s).
+asciende
+(Bendicion) protege %s%s.
+Acerca de
+7th Legion
+opciones
+Acerca de
+Ok
+Internet UDP
+Skirmish
+7C
+7L
+CH
+Armadura Corporal
+Armadura Liviana
+Armadura Mediana
+Armadura Pesada
+Estructura
+Ninguno
+Plasma Rifle
+Misil 1
+Misil 2
+Granada
+Cohete
+Laser
+Laser Rapido
+Priest thing
+Lanzallamas
+Zapper
+Perno Laser
+Pack Misiles
+Mortar Round
+Ninguno
+Anterior
+Salir
+Siguiente
+\\Nombre: Infanteria
+[Costo: 250 Cred.
+[Armadura: Corporal
+[Arma: Plasma Rifle
+[Arma 2: Rifle Plasma
+[Velocidad: 8
+[Velocidad Giro: 8
+[Salud: 4
+[Build Time: 200
+[Reload Time: 200
+]This unit shoots stuff
+]and kills it. Usually.
+]Also makes a nice cheese
+]sandwich in the field
+]for those hungry troops.
+\\Name: %s %s
+[Cost:     %d Cred.
+[Armour:    %s
+[Weapon:    %s
+[Weapon 2:  %s
+[Velocidad:     %1.1f
+[Velocidad Giro: %d
+[Velocidad Giro: N/A
+[Salud:     %d
+[Tiempo Construccion:   %d
+Empezar Nuevo Juego
+Elige Tu alianza
+Bendiga Una Unidad
+Desordena Una Unidad
+Limpia Niebla
+Inmolacion II
+Maldicion Sagrada
+Psicosis II
+Psicosis III
+Balance
+Teletransportarse
+Sigilo
+Sigilo II
+Sigilo III
+Revelar
+Robar Creditos
+Robar Creditos II
+Demolicion
+Ruptura Sistema
+Revelar Tarjetas
+Cambiar Cartas
+Destino
+Robar Tarjeta
+Maldicion Sagrada II
+Bendecir Produccion
+Maldecir Produccion
+Limpia Niebla II
+Martillo Divino II
+Puño Destructor II
+Bufon
+Crusader
+Atormentador
+Inquisidor
+Revelador
